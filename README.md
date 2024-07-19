@@ -11,6 +11,8 @@ On this webpage, users enter the type of food and its location. Based on the inp
 
 **Database:** Mongo Database
 
+**API:** Yelp API
+
   ## ScreenShots
 
   **Homepage**
