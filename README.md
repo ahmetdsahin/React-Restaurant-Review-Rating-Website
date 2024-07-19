@@ -14,29 +14,37 @@ On this webpage, users enter the type of food and its location. Based on the inp
   ## ScreenShots
 
   **Homepage**
+  
   ![anasayfa](https://github.com/user-attachments/assets/8ca33bb3-2d39-4947-a6bc-59a8b80b3c69)
 
    **Search Result Page**
+   
 ![AramaSonuçSayfası](https://github.com/user-attachments/assets/ce96982d-5514-4794-a553-ac5e32a6ffce)
 
 **Restaurant Detail Page**
+
 ![CardDetail_part1](https://github.com/user-attachments/assets/d5bf4010-63ce-4ce7-b77b-be9aee0b8b8b)
 
 ![CardDetail_part2](https://github.com/user-attachments/assets/2946abf5-79ce-43d6-a436-39d4c97841ea)
 
 **Login Page**
+
 ![GirişYap_Sayfası](https://github.com/user-attachments/assets/ace6d043-bc05-4b63-bac1-86eee3301a8b)
 
 **Register Page**
+
 ![Kayıt_Sayfası](https://github.com/user-attachments/assets/785166c8-989b-4cc1-9e77-51f27f2b2317)
 
 **Database  Image**
+
 ![MongoDb_database](https://github.com/user-attachments/assets/90aa1d04-375e-4d1f-9c85-78f1c589027d)
 
 **Database  Comment Image**
+
 ![MongoDb_comments](https://github.com/user-attachments/assets/cc21936d-2a02-420f-93b0-fb8b6fc28c06)
 
 **Database  Users Image**
+
 ![MongoDb_users](https://github.com/user-attachments/assets/a58d7ca1-29a3-4b08-9438-29ea53989587)
 
 
