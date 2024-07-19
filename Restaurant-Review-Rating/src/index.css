@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-pattern{
+    background-image: url("./assets/images/background.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 1;
+}
+.bs-bg-pattern{
+  
+  background-image: url("https://i1.wp.com/visit-twincities.com/wp-content/uploads/2018/03/Fotolia_159816048_Subscription_XL.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    opacity: 1;
+
+}
